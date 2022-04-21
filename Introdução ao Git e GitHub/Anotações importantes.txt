@@ -1,0 +1,6 @@
+Git commmit -m "Comentário" - Comita um arquivo do local para o Github
+
+Git Push - Encaminha o arquivo comitado para o GitHub
+
+git status - gera um relatóirio de status do arquivo commitado
+
